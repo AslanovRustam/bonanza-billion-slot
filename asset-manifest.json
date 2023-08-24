@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bonanza-billion-slot/static/css/main.c25d26d9.css",
+    "main.js": "/bonanza-billion-slot/static/js/main.e6c665e8.js",
+    "static/media/bg.png": "/bonanza-billion-slot/static/media/bg.cdc5de88dc1f6c0bc30f.png",
+    "static/media/Montserrat-SemiBold.ttf": "/bonanza-billion-slot/static/media/Montserrat-SemiBold.bb9c13378f11c7e56322.ttf",
+    "static/media/MontserratAlternates-ExtraBold.ttf": "/bonanza-billion-slot/static/media/MontserratAlternates-ExtraBold.be0c7493a022c76bed70.ttf",
+    "static/media/MontserratAlternates-Bold.ttf": "/bonanza-billion-slot/static/media/MontserratAlternates-Bold.104814841470be32b52f.ttf",
+    "static/media/MontserratAlternates-SemiBold.ttf": "/bonanza-billion-slot/static/media/MontserratAlternates-SemiBold.03445fae575ffe41b4a7.ttf",
+    "static/media/bgSlots.png": "/bonanza-billion-slot/static/media/bgSlots.3da38497461799d20b08.png",
+    "static/media/slot2.png": "/bonanza-billion-slot/static/media/slot2.bf499ee0856959a675b4.png",
+    "static/media/popUpDeposit.png": "/bonanza-billion-slot/static/media/popUpDeposit.9f35596f160368e9d4de.png",
+    "static/media/slot3.png": "/bonanza-billion-slot/static/media/slot3.db729868bffa9080fd7c.png",
+    "static/media/slot1.png": "/bonanza-billion-slot/static/media/slot1.99d0985efa77b596cbe1.png",
+    "static/media/logo.png": "/bonanza-billion-slot/static/media/logo.fbd87422a0d49a3b41a5.png",
+    "static/media/bgMob.png": "/bonanza-billion-slot/static/media/bgMob.d4a6974a70eade7fdc6b.png",
+    "static/media/spin1.png": "/bonanza-billion-slot/static/media/spin1.43a1d6d45a2096e3bdc6.png",
+    "static/media/spin2.png": "/bonanza-billion-slot/static/media/spin2.4a4328c541314b0a0ea8.png",
+    "index.html": "/bonanza-billion-slot/index.html",
+    "static/media/getFetch.cjs": "/bonanza-billion-slot/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.c25d26d9.css.map": "/bonanza-billion-slot/static/css/main.c25d26d9.css.map",
+    "main.e6c665e8.js.map": "/bonanza-billion-slot/static/js/main.e6c665e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c25d26d9.css",
+    "static/js/main.e6c665e8.js"
+  ]
+}
