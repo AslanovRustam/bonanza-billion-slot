@@ -1,0 +1,15 @@
+{
+  "main": {
+    "bonuses": " Deposit bonuses and free spins",
+    "wait4you": "waiting for you at the Casino!"
+  },
+  "slot": "SPIN",
+  "winingSet": {
+    "firstWin": { "value": "150", "name": "free spins" },
+    "secondWin": { "value": "375%", "name": "deposit bonus" }
+  },
+  "firstSpin": "first spin",
+  "secondtSpin": "second spin",
+  "youWin": "You won:",
+  "get": "GET"
+}

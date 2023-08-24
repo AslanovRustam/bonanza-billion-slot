@@ -1,0 +1,63 @@
+.containerLeft {
+  position: absolute;
+  right: 14em;
+  top: 7em;
+}
+.containerRight {
+  position: absolute;
+  left: 14em;
+  top: 7em;
+}
+.item {
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: all 0.3s ease-in-out;
+}
+.bonus {
+  opacity: 0;
+  /* margin-top: 1em; */
+  animation: fadeIn 1s ease-in-out forwards 3s;
+}
+.spinBg {
+  width: 15.4em;
+}
+.default,
+.bonusValue,
+.bonusDescription {
+  font-family: MontserratAlternates;
+  font-size: 1.5em;
+  font-weight: 800;
+  line-height: 140%;
+  color: transparent;
+  background: linear-gradient(#d5ff2e, #fbff1f, #ffc42e);
+  background-clip: text;
+  text-transform: uppercase;
+}
+.bonusValue {
+  font-size: 3em;
+}
+.bonusDescription {
+  font-size: 1.157em;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@media (orientation: portrait) {
+  .containerLeft {
+    font-size: 0.9em;
+    right: 9.5em;
+    top: 15em;
+  }
+  .containerRight {
+    font-size: 0.9em;
+    left: 9.5em;
+    top: 15em;
+  }
+}

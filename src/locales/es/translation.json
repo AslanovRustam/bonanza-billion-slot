@@ -1,0 +1,15 @@
+{
+  "main": {
+    "bonuses": " Bonos de depósito y giros gratis",
+    "wait4you": "¡Te esperamos en el Casino! "
+  },
+  "slot": "GIRAR",
+  "winingSet": {
+    "firstWin": { "value": "150", "name": "Tiradas gratis" },
+    "secondWin": { "value": "375%", "name": "bono de depósito" }
+  },
+  "firstSpin": "primer giro",
+  "secondtSpin": "segundo giro",
+  "youWin": "Usted ha ganado:",
+  "get": "CONSEGUIR"
+}

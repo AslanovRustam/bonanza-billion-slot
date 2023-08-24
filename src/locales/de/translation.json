@@ -1,0 +1,15 @@
+{
+  "main": {
+    "bonuses": "Einzahlungsboni und Freispiele",
+    "wait4you": "wartet im Casino auf Sie! "
+  },
+  "slot": "DREHEN",
+  "winingSet": {
+    "firstWin": { "value": "150", "name": "Freispiele" },
+    "secondWin": { "value": "375%", "name": "Einzahlungsbonus" }
+  },
+  "firstSpin": "erster Dreh",
+  "secondtSpin": "zweite Umdrehung",
+  "youWin": "Du hast gewonnen:",
+  "get": "ERHALTEN"
+}
